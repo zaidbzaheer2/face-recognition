@@ -1,0 +1,5 @@
+node_modules
+.vscode
+backend/env
+backend/.idea
+backend/**/__pycache__
